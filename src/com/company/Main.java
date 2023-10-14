@@ -11,4 +11,9 @@ public class Main {
         System.out.println("say hello");
     }
 
+    public void sayHi()
+    {
+        System.out.println("say hi");
+    }
+
 }
