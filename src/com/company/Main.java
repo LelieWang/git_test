@@ -6,4 +6,9 @@ public class Main {
 	// write your code here
         System.out.println("heep");
     }
+    public void sayHello()
+    {
+        System.out.println("say hello");
+    }
+
 }
